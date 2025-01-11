@@ -9,4 +9,4 @@ Gitea Documentaion can be found here: https://docs.gitea.com/
 
 In my presentation, I also highlighted that my Gitea instance is hosted on a DigitalOcean virtual private server. If you're interested in trying DigitalOcean yourself, you can use this referral signup link to get started: https://lnkd.in/gzGU3_MN
 
-You can support me on buymeacoffee.com/H8MBzhKkq
+You can support me on https://buymeacoffee.com/H8MBzhKkq
